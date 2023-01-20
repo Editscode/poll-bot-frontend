@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\PollBotTelegram\poll-bot-frontend\obj\Debug\poll-bot-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PollBotTelegram\poll-bot-frontend\obj\Debug\poll-bot-frontend.esproj.CoreCompileInputs.cache
