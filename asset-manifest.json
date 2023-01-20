@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/poll-bot-frontend/static/css/main.073c9b0a.css",
-    "main.js": "/poll-bot-frontend/static/js/main.0932930b.js",
+    "main.css": "/poll-bot-frontend/static/css/main.135ab78d.css",
+    "main.js": "/poll-bot-frontend/static/js/main.7575845e.js",
     "static/js/787.fcdba071.chunk.js": "/poll-bot-frontend/static/js/787.fcdba071.chunk.js",
-    "static/media/logo.svg": "/poll-bot-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/poll-bot-frontend/index.html",
-    "main.073c9b0a.css.map": "/poll-bot-frontend/static/css/main.073c9b0a.css.map",
-    "main.0932930b.js.map": "/poll-bot-frontend/static/js/main.0932930b.js.map",
+    "main.135ab78d.css.map": "/poll-bot-frontend/static/css/main.135ab78d.css.map",
+    "main.7575845e.js.map": "/poll-bot-frontend/static/js/main.7575845e.js.map",
     "787.fcdba071.chunk.js.map": "/poll-bot-frontend/static/js/787.fcdba071.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0932930b.js"
+    "static/css/main.135ab78d.css",
+    "static/js/main.7575845e.js"
   ]
 }
